@@ -17,3 +17,5 @@ Email:
 - muskaan.ramchandani@icomp.ufam.edu.br
 - pedro.mendonca@icomp.ufam.edu.br
 - ruan.costa@icomp.ufam.edu.br
+
+Link do colab: https://colab.research.google.com/drive/1b4wWpvHeJe6ULSFE1Rof9Qz-wq0N9ORK?usp=sharing
